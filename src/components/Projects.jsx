@@ -69,7 +69,7 @@ const Projects = () => {
       objective: "Offrir un lookbook premium pour les nouvelles collections.",
       solution: "Animations douces, fiches produits modulaires et CTA d'essayage virtuel.",
       result: "+45% de demandes de devis wholesale et engagement boosté.",
-      link: "urbanline.vercel.app"
+      link: "https://urbanline-gilt.vercel.app"
     }
   ];
 

@@ -49,7 +49,7 @@ const Projects = () => {
       objective: "Moderniser les réservations et montrer l'expertise du salon.",
       solution: "UX mobile-first, galerie immersive et prise de rendez-vous WhatsApp instantanée.",
       result: "+32% de réservations hebdomadaires et une meilleure visibilité locale.",
-      link: "https://barberkza.netlify.app"
+      link: "https://barberkaz.vercel.app"
     },
     {
       id: 2,
@@ -59,7 +59,7 @@ const Projects = () => {
       objective: "Augmenter les commandes click & collect et raconter l'histoire du snack.",
       solution: "Menu interactif, storytelling \"Notre snack\" et intégration Google Maps.",
       result: "Temps moyen sur page x2 et +18 commandes mensuelles.",
-      link: "https://snackygo.netlify.app"
+      link: "https://snackygo.vercel.app"
     },
     {
       id: 3,
@@ -69,7 +69,7 @@ const Projects = () => {
       objective: "Offrir un lookbook premium pour les nouvelles collections.",
       solution: "Animations douces, fiches produits modulaires et CTA d'essayage virtuel.",
       result: "+45% de demandes de devis wholesale et engagement boosté.",
-      link: "urbanline.netlify.app"
+      link: "urbanline.vercel.app"
     }
   ];
 
